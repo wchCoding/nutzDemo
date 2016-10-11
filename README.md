@@ -1,2 +1,2 @@
 # nutzDemo
-nutz框架的demo
+nutz框架的基础demo
